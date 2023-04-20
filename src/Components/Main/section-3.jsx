@@ -43,9 +43,9 @@ const section3 = () => {
 
               <div className="w-[300px]">
                 <div className="" >
-                  <a className="relative" href="#">
+                  <a className="relative flex items-center justify-center" href="#">
                     <img className="rounded-lg " src={img10} alt="" />
-                    <img className=" absolute top-[52px] left-[120px] w-[64px]" src={img13} alt="" />
+                    <img className=" absolute w-[64px]" src={img13} alt="" />
                   </a>
                 </div>
                 <div className="text-center">
@@ -60,9 +60,9 @@ const section3 = () => {
 
               <div className="w-[300px]">
                 <div className="">
-                  <a className='relative' href="#">
+                  <a className='relative flex items-center justify-center' href="#">
                     <img className=" rounded-lg" src={img11} alt="" />
-                    <img className=" absolute top-[52px] left-[120px] w-[64px]" src={img13} alt="" />
+                    <img className=" absolute w-[64px]" src={img13} alt="" />
                   </a>
                 </div>
                 <div className="text-center">
@@ -77,9 +77,9 @@ const section3 = () => {
 
               <div className="w-[300px]">
                 <div>
-                  <a className=' relative' href="#">
+                  <a className=' relative flex items-center justify-center' href="#">
                     <img className=" rounded-lg" src={img12} alt="" />
-                    <img className=" absolute top-[52px] left-[120px] w-[64px]" src={img13} alt="" />
+                    <img className=" absolute w-[64px]" src={img13} alt="" />
                   </a>
                 </div>
                 <div className="text-center">
